@@ -1,0 +1,18 @@
+{
+  "name": "typeorm-incorrect-table-name",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@types/node": "^20.12.7",
+    "@types/sql.js": "^1.4.9",
+    "reflect-metadata": "^0.2.2",
+    "sql.js": "^1.10.3",
+    "typeorm": "^0.3.20"
+  }
+}
